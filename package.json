@@ -1,8 +1,10 @@
 {
   "name": "hurugen-test-react-npm-demo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "react commpoent demo",
+  "repository":"https://github.com/HURUGEN/react-component-publish",
+  "main": "lib/index.js",
+  "keywords":["hurugen"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open --mode development",
